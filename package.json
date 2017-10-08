@@ -1,0 +1,26 @@
+{
+  "name": "usborne-books",
+  "version": "1.0.0",
+  "description": "Site for Usborne Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpeelstand/UsborneBook-NEW.git"
+  },
+  "author": "Nathan Ellingson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpeelstand/UsborneBook-NEW/issues"
+  },
+  "homepage": "https://github.com/tpeelstand/UsborneBook-NEW#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-pug": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-prettify": "^0.4.0"
+  }
+}
